@@ -1,7 +1,8 @@
 # README
 
+This is a simple program that allows users to upload a CSV file of purchases, imports and parses the file, then adds it to a database where the user can view all previously imported purchases. 
 
-Steps to run:
+Steps to run (on Windows):
 0) Install Ruby 2.xx
 1) Install Rails 5.0.0.1
 3) Install ruby-dev
